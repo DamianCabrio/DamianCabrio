@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damiancabrio" alt="damiancabrio" /></a> </p>
 
-- 🔭 I’m currently working at [ArganoUV](https://weareuv.com/)
-
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working at [AlitáWare](https://alitaware.com/)
 
 - 📫 How to reach me **soy@damiancabrio.com.ar**
 
